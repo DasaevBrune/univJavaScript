@@ -9,5 +9,6 @@ let persona ={
 console.log(persona.nombre);
 console.log(persona.edad);
 console.log(persona);
+co
 
 //
